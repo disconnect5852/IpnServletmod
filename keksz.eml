@@ -1,0 +1,55 @@
+Return-Path: <xxxxxxx@xxxxxxx.xx>
+Delivered-To: <xxxxxxx@xxxxxxx.xx>
+Received: from mx01d.mail.xxxxxxx.xx ([0.0.0.0])
+	by maxbe00d.t-online.private (Dovecot) with LMTP id olnxEOs2B1CLQwAAsEoOsA
+	for <xxxxxxx@xxxxxxx.xx>; Thu, 19 Jul 2012 00:24:51 +0200
+Received: from mx01d.mail.xxxxxxx.xx ([0.0.0.0]) by mx01d.mail.xxxxxxx.xx with
+ LMTP; Thu, 19 Jul 2012 00:24:51 +0200
+Received: from mail01d.mail.xxxxxxx.xx (mail01d.mail.xxxxxxx.xx [0.0.0.0])
+	by mx01d.mail.xxxxxxx.xx (Postfix) with ESMTP id 3WctFv1NsJz2JlmP
+	for <xxxxxxx@xxxxxxx.xx>; Thu, 19 Jul 2012 00:24:51 +0200 (CEST)
+Received: from [192.168.0.2] (54034482.catv.pool.telekom.hu [0.0.0.0])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail01d.mail.xxxxxxx.xx (Postfix) with ESMTPSA id 3WctFv08QXz173L9
+	for <xxxxxxx@xxxxxxx.xx>; Thu, 19 Jul 2012 00:24:50 +0200 (CEST)
+Message-ID: <500737AF.7000109@xxxxxxx.xx>
+Date: Thu, 19 Jul 2012 00:24:47 +0200
+From: XXXXXX <xxxxxxx@xxxxxxx.xx>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.13) Gecko/20101207 Thunderbird/3.1.7
+MIME-Version: 1.0
+To: xxxxxxx@xxxxxxx.xx
+Subject: Lö addon
+Content-Type: multipart/alternative;
+ boundary="------------030409050501060103080603"
+X-Spam-Score: 1.62647061414e-05
+X-Spam-Probability: 1.62647061414e-06
+
+This is a multi-part message in MIME format.
+--------------030409050501060103080603
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+
+*Thanks for your donation!*
+
+   1.   Please download the installer application below......... blah blah
+
+--------------030409050501060103080603
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+    <title>addon for game</title>
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    <b><big>Thanks for your donation!</big></b><br>
+    <ol>
+      <li>&nbsp;Please download the installer application below.... blahblah
+  </body>
+</html>
+
+--------------030409050501060103080603--

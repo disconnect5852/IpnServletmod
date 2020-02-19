@@ -1,0 +1,8 @@
+júl. 16, 2013 1:55:33 DU deco.Logging <init>
+INFO: Logger Started
+júl. 16, 2013 1:55:47 DU deco.PaypalListenerServlet service
+WARNING: FAILED, item: null;Completed;USD;12.34;seller@paypalsandbox.com;886290772;buyer@paypalsandbox.com;null
+júl. 16, 2013 2:00:53 DU deco.Logging <init>
+INFO: Logger Started
+júl. 16, 2013 2:01:00 DU deco.PaypalListenerServlet service
+WARNING: FAILED, item: null;Completed;USD;12.34;fsdfdsfsd@gmail.com;912110463;buyer@paypalsandbox.com;null
